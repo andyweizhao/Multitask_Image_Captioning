@@ -1,3 +1,5 @@
 # Multitask_Image_Captioning
 
-The code will be arranged and uploaded soon.
+More detailed instructions will be provided soon.
+
+For any questions, you can report issue here.
